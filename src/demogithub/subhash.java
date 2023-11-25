@@ -1,5 +1,6 @@
 package demogithub;
 
-public class subhash {
+public class Subhash
+{
 
 }
